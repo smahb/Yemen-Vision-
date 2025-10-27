@@ -1,0 +1,32 @@
+{
+  "name": "wedding-hall-yemen",
+  "version": "1.0.0",
+  "description": "موقع قاعة الأفراح اليمنية - أجمل حفلات الزفاف في اليمن",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'بناء الموقع'",
+    "test": "echo 'اختبار الموقع'"
+  },
+  "keywords": [
+    "wedding",
+    "yemen",
+    "hall",
+    "events",
+    "arabic"
+  ],
+  "author": "قاعة الأفراح اليمنية",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wedding-hall-yemen/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wedding-hall-yemen/website/issues"
+  },
+  "homepage": "https://wedding-hall-yemen.com"
+}
